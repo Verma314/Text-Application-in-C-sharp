@@ -1,0 +1,9 @@
+E:\Aditya Verma\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\A Typing App.csprojResolveAssemblyReference.cache
+E:\Aditya Verma\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Aditya Verma\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Aditya Verma\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\A Typing App.csproj.GenerateResource.Cache
+E:\Aditya Verma\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Aditya Verma\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Aditya Verma\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Aditya Verma\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Aditya Verma\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
